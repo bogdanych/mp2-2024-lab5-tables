@@ -1,0 +1,3 @@
+C:/Users/max22/OneDrive/Рабочий стол/лабораторки/таблицы/mp2-2024-lab5-tables-main/gtest/out/build/x64-Debug/CMakeFiles/gtest.dir
+C:/Users/max22/OneDrive/Рабочий стол/лабораторки/таблицы/mp2-2024-lab5-tables-main/gtest/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/max22/OneDrive/Рабочий стол/лабораторки/таблицы/mp2-2024-lab5-tables-main/gtest/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
